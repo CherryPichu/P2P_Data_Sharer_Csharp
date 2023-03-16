@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2P Data Sharer2", "P2P Data Sharer2\P2P Data Sharer2.csproj", "{12EE7A99-028D-4A4A-9564-6E205F57E6BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12EE7A99-028D-4A4A-9564-6E205F57E6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EE7A99-028D-4A4A-9564-6E205F57E6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EE7A99-028D-4A4A-9564-6E205F57E6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EE7A99-028D-4A4A-9564-6E205F57E6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {721A6F2F-E7F9-4AE6-960B-2AAF1612CE88}
+	EndGlobalSection
+EndGlobal
